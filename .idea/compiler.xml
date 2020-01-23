@@ -9,12 +9,14 @@
         <module name="kafka" />
         <module name="kafka-consumer-elasticsearch" />
         <module name="kafka-producer-twitter" />
+        <module name="kafka-sb-practice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="kafka" target="8" />
       <module name="kafka-consumer-elasticsearch" target="1.8" />
       <module name="kafka-producer-twitter" target="1.8" />
+      <module name="kafka-sb-practice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

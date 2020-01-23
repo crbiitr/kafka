@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/kafka-basics/kafka-basics.iml" filepath="$PROJECT_DIR$/kafka-basics/kafka-basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-consumer-elasticsearch/kafka-consumer-elasticsearch.iml" filepath="$PROJECT_DIR$/kafka-consumer-elasticsearch/kafka-consumer-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-producer-twitter/kafka-producer-twitter.iml" filepath="$PROJECT_DIR$/kafka-producer-twitter/kafka-producer-twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-sb-practice/kafka-sb-practice.iml" filepath="$PROJECT_DIR$/kafka-sb-practice/kafka-sb-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-kafka-practice.iml" filepath="$PROJECT_DIR$/sb-kafka-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-kafka-prectice.iml" filepath="$PROJECT_DIR$/sb-kafka-prectice.iml" />
     </modules>
   </component>
 </project>

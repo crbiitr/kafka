@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/kafka-producer-twitter/pom.xml" />
         <option value="$PROJECT_DIR$/kafka-consumer-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-sb-practice/pom.xml" />
       </list>
     </option>
   </component>
